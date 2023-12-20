@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    overflow-x: hidden;
+}
+
+h2{
+  color: #57D0FF;
+}
+
+.header {
+    background-color: gray;
+    color: white;
+    padding: 20px;
+}
+
+.header a {
+  color: #ffffff;
+}
+
+.main-content {
+    color: black;
+    padding: 50px;
+    max-width: 100%;
+}
+
+section{
+  padding: auto;;
+}
+
+a{
+  color: #000000;
+}
